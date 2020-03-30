@@ -1,3 +1,0 @@
-My first attempt at outputing something interesting from actual data. 
-
-Will be a lot of group by practice and a lot of frustration...
